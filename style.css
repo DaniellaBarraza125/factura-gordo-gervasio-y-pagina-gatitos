@@ -1,0 +1,11 @@
+table {
+       border-collapse: collapse;
+   
+}
+table, td, th{
+    border: solid 1px grey;
+}
+.titulo {
+    background-color: rgb(228, 226, 226);
+    /*font-weight: bold; -- opcion css para evitar el uso de <b> al escribir en las zonas con fondo gris*/
+}
